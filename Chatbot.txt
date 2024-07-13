@@ -1,0 +1,32 @@
+Is vaccination mandatory?
+No, but highly recommended by the government.
+What are the possible side effects of vaccination?
+The possible side effects include pain, fever, fatigue and headache.
+Am I still considered fully vaccinated if I don't get a booster?
+Yes, you are fully vaccinated even if you haven't gotten your booster yet.
+Can I get the vaccine if I am sick?
+A mild illness will not affect the safety or effectiveness of a vaccine.
+Am I at risk if I smoke cigarettes?
+Yes. Cigarette smoking increases the risk of more severe illness from COVID-19.
+Are the COVID-19 vaccines safe and effective?
+Vaccines are safe and effective based on the available evidence to date.
+Does getting a vaccine hurt?
+It is common to experience some discomfort or pain
+Hello, VacciBot!
+Hi, User! How can I help you today?
+Can I ask you a question about COVID-19?
+Sure, go ahead!
+Magandang araw, VacciBot!
+Magandang araw din! Ano po ang maitutulong ko sa inyo ngayon?
+Pwede ba kitang tanungin tungkol sa COVID-19?
+Oo, maari mo akong tanungin.
+Pwede po ba kayo matanong sa tagalog?
+Opo, marunong po ako mag-Tagalog. Ano po ang maitutulong ko sa inyo?
+Ano ang COVID-19?
+Ang COVID-19 ay isang nakakahawang sakit na dulot ng SARS-CoV-2 coronavirus.
+Ilang dosis ng bakuna ang kailangan ko para sa pinakamabisang proteksyon?
+Ito ay depende sa iyong edad at sa kung aling bakuna ang makukuha mo.
+Ligtas ba ang mga bakuna sa COVID-19?
+Oo. Ito ay Nakakatugon sa napakataas na pamantayan ng kaligtasan ng FDA at CDC.
+Magkakasakit ba ako sa bakuna?
+Hindi dahil hindi naglalaman ang mga ito ng virus na nagdudulot ng sakit.
